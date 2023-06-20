@@ -1,6 +1,8 @@
 package main
+
 import "fmt"
-func main()  {
+
+func main() {
 	fmt.Println("Hi: add some features!")
-	fmt.Println("Hi!")
+	fmt.Println("Hi!!")
 }
